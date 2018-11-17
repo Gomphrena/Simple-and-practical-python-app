@@ -4,7 +4,7 @@
 
 ### 所有程序项目·目录(All program items · directory)
 
->** Colored Cotton**
+>**Colored Cotton**
 
 
 ![](a.jpg)
