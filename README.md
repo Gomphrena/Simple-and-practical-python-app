@@ -6,7 +6,7 @@
 
 >**Colored Cotton ——— 彩云**
 
-<p>  一个关于颜色的词语的查询系统    A query system for words of color</p>
+<p>&emsp一个关于颜色的词语的查询系统    A query system for words of color</p>
 
 
 ![千日红](a.jpg)
